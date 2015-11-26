@@ -6,4 +6,4 @@ Read a wordlist.txt then output anagrams groups
 
 Run `crystal deps` to install deps
 
-RUn `crystal spec` to test
+Run `crystal spec` to test
